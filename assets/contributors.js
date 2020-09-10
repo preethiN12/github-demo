@@ -8,7 +8,7 @@ export const contributors = [
     githubProfile: 'https://github.com/cuHacking'
   },
   {
-    name: 'Preethi",
+    name: 'Preethi',
     githubProfile: 'https://github.com/preethiN12'
   }
 ]
