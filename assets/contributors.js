@@ -4,8 +4,24 @@ export const contributors = [
     githubProfile: 'https://github.com/Walsker'
   },
   {
+    name: 'Alireza Teimoori',
+    githubProfile: 'https://github.com/AlirezaTeimoori'
+  },
+  {
+    name: 'kamalchah',
+    githubProfile: 'https://github.com/kamalchah'
+  },
+  {
+    name: 'AutoScott',
+    githubProfile: 'https://github.com/SolidSoundGuy'
+  },
+  {
     name: 'Jess Tiberio',
     githubProfile: 'https://github.com/JTibs18'
+  },
+  {
+    name: 'Edward Akapo',
+    githubProfile: 'https://github.com/edwardakapo'
   },
   {
     name: 'Reszonance',
@@ -18,6 +34,18 @@ export const contributors = [
   {
     name: 'cuHacking Example',
     githubProfile: 'https://github.com/cuHacking'
+  },
+  {
+    name: 'Jacob Zekorn',
+    githubProfile: 'https://github.com/xZeke'
+  },
+  {
+    name: 'Thomas Aubin',
+    githubProfile: 'https://github.com/ThomasAubin'
+  },
+  {
+    name: 'Anwar',
+    githubProfile: 'https://github.com/anwarkulane'
   },
   {
     name: 'Preethi Nagabandi',
@@ -36,8 +64,8 @@ export const contributors = [
     githubProfile: 'https://github.com/IanWebster7'
   },
   {
-   name: 'Alex Nedev',
-   gitHubProfile: 'https://github.com/AlexNedev'
+    name: 'Alex Nedev',
+    gitHubProfile: 'https://github.com/AlexNedev'
   },
   {
     name: 'Aidan French',
@@ -46,6 +74,10 @@ export const contributors = [
   {
     name: 'Bardia Parmoun',
     githubProfile: 'https://github.com/bardia-p'
+  },
+  {
+    name: 'Nathan MacDiarmid',
+    githubProfile: 'https://github.com/NathanMacDiarmid'
   },
   {
     name: 'Eren Sulutas',
@@ -64,10 +96,17 @@ export const contributors = [
     githubProfile: 'https://github.com/Nervith'
   },
   {
+    name: 'Zhaohong Wan',
+    githubProfile: 'https://github.com/wanzhaohong'
+  },
+  {
+    name: 'Yahya Hizebry',
+    githubProfile: 'https://github.com/HIZE-Y'
+  },
+  {
     name: 'Emmanuel Mphande',
     githubProfile: 'https://github.com/Mphande'
-  }
-  ,
+  },
   {
     name: 'Hakim Amar',
     githubProfile: 'https://github.com/AmarHakim'
@@ -75,5 +114,17 @@ export const contributors = [
   {
     name: 'Josh Cadieux',
     githubProfile: 'https://github.com/JCadoo2002'
+  },
+  {
+    name: 'Gexter',
+    githubProfile: 'https://github.com/gexter-sangsongthong'
+  },
+  {
+    name: 'Elias Hawa',
+    githubProfile: 'https://github.com/EliasJRH'
+  },
+  {
+    name: 'Clint Galvez',
+    githubProfile: 'https://github.com/Crosoar'
   }
 ]
