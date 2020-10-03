@@ -20,7 +20,7 @@ export const contributors = [
     githubProfile: 'https://github.com/cuHacking'
   },
   {
-    name: 'Preethi',
+    name: 'Preethi Nagabandi',
     githubProfile: 'https://github.com/preethiN12'
   },
   {
